@@ -1,5 +1,5 @@
-John 31 Builder
-Steve 59 Driver
-Cath 73 Retired
-Jane 44 Teacher
-Bob 27 Farmer
+John 28 Builder
+Steve 33 Bartender
+Dave 75 Retired
+Sarah 47 Teacher
+Beth 19 Runner

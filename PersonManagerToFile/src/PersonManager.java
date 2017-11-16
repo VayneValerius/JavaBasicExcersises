@@ -11,11 +11,5 @@ public class PersonManager {
 		}
 		return output;
 	}
-	
-	public void addPeople(String name, String occupation, int age)
-	{
-		PersonClass person = new PersonClass(name, occupation, age);
-		personList.add(person);
-	}
 
 }
