@@ -3,7 +3,7 @@ public class Exc3 {
 
 	public static void main(String[] args) 
 	{
-		System.out.println(tempLevels(90, false));
+		System.out.println(tempLevels(70, false));
 		// TODO Auto-generated method stub
 
 	}
@@ -14,7 +14,7 @@ public class Exc3 {
 		{
 			return true;
 		}
-		else if (isSummer = false && temp <= 90 && temp >=60)
+		else if (isSummer == false && temp <= 90 && temp >=60)
 		{
 			return true;
 		}
